@@ -1,51 +1,45 @@
-# template-repo
+# Sunroom Plant Sale
 
-A GitHub template for new repos, with versioning and releases built in.
+Listing page for 15 houseplants, served from GitHub Pages and linked from Marketplace listings.
 
-| File | Purpose |
-|---|---|
-| `VERSION` | Current version (SemVer). It starts at `0.0.0`, so the first `release.py minor` makes 0.1.0. |
-| `CHANGELOG.md` | Keep a Changelog, with this repo's MAJOR/MINOR/PATCH definitions at the top. Every change gets an `[Unreleased]` entry. |
-| `scripts/release.py` | `patch\|minor\|major\|X.Y.Z [--dry-run]`. Bumps VERSION, dates the Unreleased notes, commits, tags, pushes, and publishes a GitHub Release with those notes. Optional extras: `scripts/build-release.sh` and `.release-assets`. |
-| `scripts/init.py` | One-time setup after "Use this template": fresh README, CHANGELOG and VERSION, then it deletes itself. |
-| `CLAUDE.md` | Tells Claude sessions to follow these conventions. |
-| `.gitignore` | Common OS, editor, Python, Node, env and log ignores. |
+A one-page listing site for 15 houseplants, served from GitHub Pages at
+https://jordanromines-jpg.github.io/plant-sale/. Each Marketplace, Craigslist or OfferUp listing links to its plant
+with `#p<number>`, e.g. `…/plant-sale/#p6`.
 
-## Use
+## Update the sale
 
-```bash
-gh repo create tool-my-thing --private --template jordanromines-jpg/template-repo --clone
-cd tool-my-thing
-scripts/init.py "My Thing" "One-line description"
-git add -A && git commit -m "Initialise from template-repo" && git push
-```
+Everything buyers see comes from `plants.js`:
 
-Next:
-1. Edit the MAJOR/MINOR/PATCH definitions at the top of `CHANGELOG.md`.
-2. Work, adding an `[Unreleased]` entry with each change.
-3. Run `scripts/release.py minor` for v0.1.0.
+- **Price:** change `price` (and `unit: "each"` for per-item prices).
+- **Sold or pending:** add `status: "sold"` or `status: "pending"` to the plant.
+- **Listing links:** paste the URL into `links.fb`, `links.cl`, `links.ou` or `links.other`. A Facebook link turns into
+  a "Message me on Marketplace" button.
+- **Pickup area:** `SALE.pickup`. Bump `SALE.updated` when you change anything.
 
-Plans come built in: `plans/` holds a [plangraph](https://github.com/jordanromines-jpg/plugin-plangraph) graph and its
-README, and `.claude/settings.json` enables the plangraph plugin for every Claude Code session in the new repo (each
-person is asked to trust the folder first). Start a plan with `/plangraph:plan`.
+Then rebuild the paste-ready copy with `node tools/make_listings.js` and commit. Pages redeploys in about a minute.
 
-For Claude skills, use [template-skill](https://github.com/jordanromines-jpg/template-skill). It's this template plus a `SKILL.md` skeleton, trigger tests and `.skill` packaging.
+## Files
 
-## Naming
+- `index.html` – the page (no build step, no dependencies).
+- `plants.js` – plant data, prices and copy.
+- `LISTINGS.md` – title, price and description for every plant, ready to paste.
+- `PRICING.md` – how each ID and price was decided.
+- `img/` (540px) and `full/` (full resolution) – stills from the walkthrough video, colour-corrected from iPhone HDR.
 
-Every repo name starts with its type:
+## Plans
 
-| Prefix | For | Example |
-|---|---|---|
-| `skill-` | A Claude skill (the skill's `name:` equals the repo name) | `skill-imgbb-upload` |
-| `plugin-` | A Claude Code plugin (may bundle skills and MCP servers) | `plugin-chart-advisor` |
-| `mcp-` | A standalone MCP server | `mcp-…` |
-| `tool-` | A script or CLI | `tool-…` |
-| `app-` | An application or site | `app-…` |
-| `data-` | A dataset or knowledge base | `data-dataviz-library` |
-| `template-` | A GitHub template repo | `template-skill` |
-| `hub-` | An index of other repos | `hub-claude-skills` |
+Plans for this repo live in [`plans/`](plans/README.md), kept as a graph with [plangraph](https://github.com/jordanromines-jpg/plugin-plangraph), which `.claude/settings.json` enables for every Claude Code session here. Start one with `/plangraph:plan`; see where things stand with `/plangraph:plan-status` or `plangraph serve`.
 
-## Versioning of this template
+## Versioning and releases
 
-This repo versions itself with the same tools. Its own history is in `CHANGELOG.md`. `scripts/init.py` replaces that file in new repos, so the template's history never carries over.
+The version is in [`VERSION`](VERSION), and the history is in [`CHANGELOG.md`](CHANGELOG.md).
+
+1. Every change adds a line under `## [Unreleased]` in the changelog.
+2. To release, run `scripts/release.py patch|minor|major`. Add `--dry-run` to preview first.
+
+The release script bumps `VERSION`, moves the Unreleased notes into a dated section, tags `vX.Y.Z`, pushes, and publishes a GitHub Release with those notes.
+- **Build steps:** if `scripts/build-release.sh` exists, it runs after the release commit, and anything it changes is committed before tagging.
+- **Attachments:** files listed in `.release-assets` are attached to the GitHub Release.
+
+---
+Created from [template-repo](https://github.com/jordanromines-jpg/template-repo).

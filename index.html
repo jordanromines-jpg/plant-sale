@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sunroom Plant Sale</title>
+<meta name="description" content="15 houseplants for sale in Chicago, photographed straight from a walkthrough of my sunroom. Real photos, fixed prices, local pickup.">
+<meta property="og:title" content="Sunroom Plant Sale">
+<meta property="og:description" content="15 houseplants for sale in Chicago. Real photos, fixed prices, local pickup.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://jordanromines-jpg.github.io/plant-sale/">
+<meta property="og:image" content="https://jordanromines-jpg.github.io/plant-sale/img/06_alocasia_batik_marbled_01m04s.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Instrument+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Direction: nursery signage. Condensed bench-sign type, prices on orange plant-stake tags, ink on a cool leaf-grey
+   ground. Phone-first, because most visitors tap through from a Marketplace listing. */
+:root {
+  --bg: #eef1ec; --surface: #ffffff; --ink: #111a14; --muted: #56645a; --line: #d4dbd1;
+  --tag: #d9541c; --tag-ink: #ffffff; --ok: #1f7a46; --ok-soft: #dcefe2; --warn: #9a5b00; --warn-soft: #f7ead2;
+  --sold: #8a2f22; --sold-soft: #f3dfdb; --shade: rgba(0, 0, 0, .62);
+  --display: "Big Shoulders Display", "Arial Narrow", "Helvetica Neue Condensed", Impact, sans-serif;
+  --body: "Instrument Sans", "Helvetica Neue", Arial, sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, Menlo, monospace;
+  --ease: cubic-bezier(.2, .7, .2, 1);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1411; --surface: #161e19; --ink: #e8eee7; --muted: #9aab9e; --line: #28342c;
+    --tag: #f07a3e; --tag-ink: #1b0c03; --ok: #6fcf94; --ok-soft: #173223; --warn: #f0b860; --warn-soft: #3a2b12;
+    --sold: #f08f80; --sold-soft: #3d1c17; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0e1411; --surface: #161e19; --ink: #e8eee7; --muted: #9aab9e; --line: #28342c;
+  --tag: #f07a3e; --tag-ink: #1b0c03; --ok: #6fcf94; --ok-soft: #173223; --warn: #f0b860; --warn-soft: #3a2b12;
+  --sold: #f08f80; --sold-soft: #3d1c17; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; padding-top: env(safe-area-inset-top, 0px); padding-bottom: env(safe-area-inset-bottom, 0px); background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; }
+img { max-width: 100%; }
+[hidden] { display: none !important; }
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--tag); outline-offset: 3px; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-inline: 18px; }
+
+/* hero */
+.hero { padding-block: 28px 20px; display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 28px 40px; align-items: center; }
+.hero > * { min-width: 0; }
+.kicker { font-family: var(--mono); font-size: 12px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.kicker b { color: var(--ok); font-weight: 500; }
+h1 { font-family: var(--display); font-weight: 900; text-transform: uppercase; font-size: clamp(60px, 12vw, 140px); line-height: .84; margin: 14px 0 18px; }
+h1 span { display: block; color: var(--tag); }
+.lede { margin: 0; max-width: 54ch; font-size: 17px; }
+.howto { margin-top: 22px; display: grid; gap: 10px; padding: 16px 18px; border: 2px solid var(--ink); border-radius: 14px; max-width: 54ch; }
+.howto h2 { margin: 0; font-family: var(--display); font-weight: 800; font-size: 24px; text-transform: uppercase; letter-spacing: .02em; }
+.howto ol { margin: 0; padding-left: 20px; display: grid; gap: 4px; }
+.howto p { margin: 0; font-size: 14px; color: var(--muted); }
+.feature { border: 0; padding: 0; background: none; cursor: pointer; text-align: left; display: block; width: 100%; max-width: 420px; justify-self: end; }
+.feature .ph { position: relative; aspect-ratio: 4 / 5; border-radius: 20px; overflow: hidden; background: var(--ok-soft); }
+.feature img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .8s var(--ease); }
+.feature:hover img { transform: scale(1.04); }
+.feature .cap { position: absolute; left: 14px; right: 14px; bottom: 14px; display: flex; justify-content: space-between; align-items: end; gap: 10px; }
+.feature .cap span { background: var(--shade); color: #fff; padding: 6px 10px; border-radius: 8px; font-size: 13px; font-weight: 600; }
+
+/* index strip */
+.strip-wrap { margin-inline: -18px; }
+.strip { display: flex; gap: 8px; overflow-x: auto; padding: 6px 18px 16px; scroll-snap-type: x proximity; scroll-padding-inline: 18px; scrollbar-width: thin; }
+.frame { flex: 0 0 auto; width: 104px; scroll-snap-align: start; display: grid; gap: 6px; text-decoration: none; color: inherit; }
+.frame .pic { position: relative; aspect-ratio: 9 / 14; border-radius: 10px; overflow: hidden; background: var(--ok-soft); }
+.frame img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .5s var(--ease); }
+.frame:hover img { transform: scale(1.06); }
+.frame .num { position: absolute; left: 6px; top: 6px; font-family: var(--mono); font-size: 10px; padding: 1px 5px; border-radius: 4px; background: var(--shade); color: #fff; }
+.frame .lbl { font-size: 12.5px; line-height: 1.25; font-weight: 600; }
+.frame .lbl i { display: block; font-style: normal; font-family: var(--mono); font-size: 11px; font-weight: 400; color: var(--muted); }
+.frame.is-sold img { filter: grayscale(1) contrast(.9); opacity: .7; }
+.stamp { position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%) rotate(-12deg); font-family: var(--display); font-weight: 900; text-transform: uppercase; letter-spacing: .06em; color: #fff; border: 3px solid #fff; padding: 2px 12px; border-radius: 6px; background: rgba(138, 47, 34, .85); font-size: 22px; white-space: nowrap; }
+.stamp.big { font-size: 46px; padding: 4px 22px; border-width: 4px; }
+.stamp.pend { background: rgba(154, 91, 0, .88); }
+
+/* controls */
+.controls { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 90%, transparent); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-block: 1px solid var(--line); }
+.controls .wrap { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; padding-block: 9px; }
+.chips { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; min-width: 0; max-width: 100%; }
+.chip { flex: 0 0 auto; border: 1px solid var(--line); background: var(--surface); padding: 6px 12px; border-radius: 6px; font-size: 13.5px; font-weight: 500; cursor: pointer; }
+.chip b { font-family: var(--mono); font-weight: 500; font-size: 11px; color: var(--muted); margin-left: 4px; }
+.chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.chip[aria-pressed="true"] b { color: var(--bg); opacity: .7; }
+.sort { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); }
+.sort select { font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 5px 8px; font-size: 13.5px; }
+
+/* cards */
+.list { display: grid; gap: 22px; padding-block: 24px 48px; }
+.plant { display: grid; grid-template-columns: minmax(0, 400px) minmax(0, 1fr); gap: 30px; padding: 22px; background: var(--surface); border: 1px solid var(--line); border-radius: 20px; scroll-margin-top: 70px; transition: box-shadow .4s var(--ease); }
+.plant.flash { box-shadow: 0 0 0 3px var(--tag); }
+.media { display: grid; grid-template-columns: minmax(0, 1fr) 62px; gap: 10px; align-self: start; }
+.media.single { grid-template-columns: minmax(0, 1fr); }
+.photo { position: relative; border: 0; padding: 0; background: var(--ok-soft); border-radius: 14px; overflow: hidden; cursor: zoom-in; aspect-ratio: 9 / 16; display: block; width: 100%; max-width: 100%; }
+.photo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.photo .zoom { position: absolute; right: 10px; bottom: 10px; font-size: 12px; padding: 4px 9px; border-radius: 7px; background: var(--shade); color: #fff; }
+.photo .count { position: absolute; left: 10px; bottom: 10px; font-family: var(--mono); font-size: 12px; padding: 3px 8px; border-radius: 7px; background: var(--shade); color: #fff; }
+.is-sold .photo img { filter: grayscale(1) contrast(.9); opacity: .75; }
+.rail { display: flex; flex-direction: column; gap: 6px; height: 0; min-height: 100%; overflow-y: auto; scrollbar-width: thin; }
+.rail button { border: 2px solid transparent; padding: 0; border-radius: 8px; overflow: hidden; background: none; cursor: pointer; flex: 0 0 auto; }
+.rail button[aria-pressed="true"] { border-color: var(--tag); }
+.rail img { display: block; width: 100%; aspect-ratio: 9 / 16; object-fit: cover; }
+.info { display: grid; gap: 16px; align-content: start; min-width: 0; }
+.top { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 14px 22px; align-items: flex-start; }
+.ident { display: grid; gap: 6px; min-width: 0; }
+.no { font-family: var(--mono); font-size: 12px; color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
+h3 { font-family: var(--display); font-weight: 800; text-transform: uppercase; font-size: clamp(36px, 5vw, 54px); line-height: .9; margin: 0; text-wrap: balance; }
+.bot { font-style: italic; color: var(--muted); font-size: 15px; }
+.tag { display: inline-grid; padding: 9px 32px 9px 28px; background: var(--tag); color: var(--tag-ink); clip-path: polygon(0 0, calc(100% - 18px) 0, 100% 50%, calc(100% - 18px) 100%, 0 100%);
+  -webkit-mask: radial-gradient(circle 5px at 13px 50%, transparent 98%, #000 100%); mask: radial-gradient(circle 5px at 13px 50%, transparent 98%, #000 100%); }
+.tag b { font-family: var(--display); font-weight: 900; font-size: 44px; line-height: 1; font-variant-numeric: tabular-nums; }
+.tag b small { font-size: 18px; font-weight: 800; margin-left: 4px; }
+.tag i { font-style: normal; font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; opacity: .9; }
+.is-sold .tag { background: var(--line); color: var(--muted); }
+.is-sold .tag b { text-decoration: line-through; text-decoration-thickness: 3px; }
+.pills { display: flex; flex-wrap: wrap; gap: 6px; }
+.pill { font-size: 12.5px; font-weight: 600; padding: 3px 9px; border-radius: 4px; background: var(--ok-soft); color: var(--ok); }
+.pill.pending { background: var(--warn-soft); color: var(--warn); }
+.pill.sold { background: var(--sold-soft); color: var(--sold); }
+.pill.plain { background: var(--bg); color: var(--muted); }
+.pitch { margin: 0; font-size: 17px; max-width: 56ch; }
+.facts { margin: 0; display: grid; gap: 8px; max-width: 56ch; }
+.facts div { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 10px; font-size: 14.5px; }
+.facts dt { font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; padding-top: 3px; }
+.facts dd { margin: 0; color: var(--muted); }
+.buy { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding-top: 14px; border-top: 1px dashed var(--line); }
+.btn { display: inline-flex; align-items: center; gap: 8px; border: 1px solid var(--ink); background: var(--ink); color: var(--bg); padding: 10px 16px; border-radius: 11px; font-weight: 600; font-size: 14.5px; cursor: pointer; text-decoration: none; transition: transform .15s var(--ease); }
+.btn:active { transform: scale(.97); }
+.btn.fb { background: #1877f2; border-color: #1877f2; color: #fff; }
+.btn.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+.hint { font-size: 14px; color: var(--muted); }
+.ok-msg { font-size: 13px; font-weight: 600; color: var(--ok); }
+.empty { padding: 40px; text-align: center; color: var(--muted); border: 1px dashed var(--line); border-radius: 18px; }
+footer { border-top: 1px solid var(--line); padding-block: 18px 36px; font-size: 13.5px; color: var(--muted); display: grid; gap: 4px; }
+
+/* lightbox */
+dialog.lb { border: 0; padding: 0; margin: 0; width: 100%; max-width: 100%; height: 100%; max-height: 100%; background: rgba(6, 10, 7, .95); color: #f1f5ef; }
+dialog.lb::backdrop { background: transparent; }
+.lb-in { height: 100%; display: grid; grid-template-rows: auto minmax(0, 1fr) auto; padding: calc(12px + env(safe-area-inset-top, 0px)) 16px calc(14px + env(safe-area-inset-bottom, 0px)); gap: 10px; }
+.lb-top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+.lb-title { font-family: var(--display); font-weight: 800; text-transform: uppercase; font-size: 28px; line-height: 1; }
+.lb-title small { display: block; font-family: var(--body); font-size: 13px; font-weight: 400; text-transform: none; opacity: .75; margin-top: 4px; }
+.lb-btn { border: 1px solid rgba(255, 255, 255, .25); background: rgba(255, 255, 255, .06); color: #fff; border-radius: 10px; padding: 8px 14px; cursor: pointer; }
+.lb-stage { display: grid; place-items: center; min-height: 0; }
+.lb-stage img { max-width: 100%; max-height: 100%; object-fit: contain; border-radius: 10px; }
+.lb-bot { display: flex; justify-content: center; align-items: center; gap: 12px; font-family: var(--mono); font-size: 13px; }
+
+/* the one orchestrated moment: the index strip deals in on load */
+@keyframes deal { from { opacity: .001; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+.strip .frame { animation: deal .5s var(--ease) both; }
+
+@media (max-width: 780px) {
+  .hero { grid-template-columns: minmax(0, 1fr); }
+  .feature { justify-self: stretch; max-width: none; }
+  .feature .ph { aspect-ratio: 4 / 3; }
+  .plant { grid-template-columns: minmax(0, 1fr); padding: 14px; gap: 18px; }
+  .media { grid-template-columns: minmax(0, 1fr); }
+  .photo { aspect-ratio: 4 / 5; }
+  .rail { flex-direction: row; overflow-x: auto; height: auto; min-height: 0; }
+  .rail button { width: 54px; }
+  .sort span { display: none; }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
+</style>
+</head>
+<body>
+<header class="wrap hero">
+  <div>
+    <div class="kicker" id="kicker"></div>
+    <h1>Sunroom <span>plant sale</span></h1>
+    <p class="lede">Everything on this page is from my place. I filmed a walkthrough of the room and pulled these photos straight from the video, so you're looking at the actual plant you'd take home, not a stock photo. Tap any photo to see it full size.</p>
+    <div class="howto">
+      <h2>How to buy</h2>
+      <ol id="howto"></ol>
+      <p>If it's on this page and not marked sold, it's still available.</p>
+    </div>
+  </div>
+  <button class="feature" type="button" id="feature"></button>
+</header>
+<div class="wrap"><div class="strip-wrap"><div class="strip" id="strip" aria-label="Every plant, in order"></div></div></div>
+<nav class="controls" aria-label="Filter and sort">
+  <div class="wrap">
+    <div class="chips" id="chips" role="group" aria-label="Show"></div>
+    <label class="sort" for="sortSel"><span>Sort</span>
+      <select id="sortSel">
+        <option value="featured">Featured order</option>
+        <option value="low">Price, low to high</option>
+        <option value="high">Price, high to low</option>
+      </select>
+    </label>
+  </div>
+</nav>
+<main class="wrap"><div class="list" id="list"></div></main>
+<footer class="wrap" id="footer"></footer>
+<dialog class="lb" id="lb" aria-label="Photo viewer">
+  <div class="lb-in">
+    <div class="lb-top"><div class="lb-title" id="lbTitle"></div><button class="lb-btn" id="lbClose" type="button">Close</button></div>
+    <div class="lb-stage" id="lbStage"><img id="lbImg" alt=""></div>
+    <div class="lb-bot"><button class="lb-btn" id="lbPrev" type="button">Prev</button><span id="lbCount"></span><button class="lb-btn" id="lbNext" type="button">Next</button></div>
+  </div>
+</dialog>
+<script src="plants.js"></script>
+<script>
+(function () {
+"use strict";
+const { SALE, PLANTS } = window.PLANT_SALE;
+const STATUS = { available: "Available", pending: "Pending pickup", sold: "Sold" };
+const LINKS = [["fb", "Facebook Marketplace"], ["cl", "Craigslist"], ["ou", "OfferUp"], ["other", "the listing"]];
+const pad = v => String(v).padStart(2, "0");
+const fname = (p, s) => `${p.key}_${pad(Math.floor(s / 60))}m${pad(s % 60)}s.jpg`;
+const small = (p, s) => `img/${fname(p, s)}`;
+const full = (p, s) => `full/${fname(p, s)}`;
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+const safeUrl = u => /^https:\/\/[^\s"'<>]+$/i.test(u || "") ? u : "";
+const priceText = p => `$${p.price}${p.unit ? " " + p.unit : ""}`;
+const plantLink = p => `${SALE.url}#p${p.n}`;
+const status = p => p.status || "available";
+const el = html => { const t = document.createElement("template"); t.innerHTML = html.trim(); return t.content.firstElementChild; };
+const fmtDate = iso => { try { return new Date(iso + "T12:00:00").toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" }); } catch (e) { return iso; } };
+
+async function copy(text, msgEl, label) {
+  const done = () => { msgEl.textContent = `${label} copied`; clearTimeout(msgEl._t); msgEl._t = setTimeout(() => msgEl.textContent = "", 2200); };
+  try { await navigator.clipboard.writeText(text); done(); }
+  catch (e) {
+    const ta = document.createElement("textarea"); ta.value = text; ta.setAttribute("readonly", ""); ta.style.position = "fixed"; ta.style.opacity = "0";
+    document.body.appendChild(ta); ta.select();
+    let ok = false; try { ok = document.execCommand("copy"); } catch (e2) {}
+    ta.remove();
+    msgEl.textContent = ok ? `${label} copied` : text;
+  }
+}
+
+/* hero */
+const avail = PLANTS.filter(p => status(p) === "available").length;
+document.getElementById("kicker").innerHTML = `<b>${avail} of ${PLANTS.length} available</b><span>Updated ${esc(fmtDate(SALE.updated))}</span><span>Pickup in ${esc(SALE.pickup)}</span>`;
+document.getElementById("howto").innerHTML = [
+  "Message me through the listing that brought you here.",
+  "Tell me which plant you want. The number on its card helps.",
+  `Pick it up in ${esc(SALE.pickup)}. We'll set a time when you message.`,
+].map(s => `<li>${s}</li>`).join("");
+const fp = SALE.featured.map(n => PLANTS.find(p => p.n === n)).find(p => p && status(p) === "available") || PLANTS[0];
+const feat = document.getElementById("feature");
+feat.setAttribute("aria-label", `See ${fp.name}`);
+feat.innerHTML = `<div class="ph"><img src="${small(fp, fp.t[0])}" alt="${esc(fp.name)}"><div class="cap"><span>No. ${pad(fp.n)} · ${esc(fp.name)}</span><span>${esc(priceText(fp))}</span></div></div>`;
+feat.addEventListener("click", () => goTo(fp.n));
+document.getElementById("footer").innerHTML = `<span>Photos are stills from my walkthrough video. Prices and availability last updated ${esc(fmtDate(SALE.updated))}.</span><span>Prices are for the plant as shown. Message me with any questions before you head over.</span>`;
+
+/* strip */
+const strip = document.getElementById("strip");
+PLANTS.forEach((p, i) => {
+  const s = status(p);
+  const a = el(`<a class="frame${s === "sold" ? " is-sold" : ""}" href="#p${p.n}" style="animation-delay:${i * 35}ms">
+    <div class="pic"><img src="${small(p, p.t[0])}" alt="" loading="lazy"><span class="num">${pad(p.n)}</span>${s === "sold" ? `<span class="stamp">Sold</span>` : s === "pending" ? `<span class="stamp pend">Pending</span>` : ""}</div>
+    <div class="lbl">${esc(p.name)}<i>${esc(s === "sold" ? "Sold" : priceText(p))}</i></div></a>`);
+  a.addEventListener("click", e => { e.preventDefault(); goTo(p.n); });
+  strip.appendChild(a);
+});
+
+/* filters */
+const FILTERS = [
+  ["all", "All", () => true],
+  ["available", "Available", p => status(p) === "available"],
+  ["rare", "Rare and variegated", p => !!p.rare],
+  ["easy", "Easy care", p => !!p.easy],
+  ["under20", "Under $20", p => p.price < 20],
+];
+let filter = "all", sort = "featured";
+const chips = document.getElementById("chips");
+function paintChips() {
+  chips.innerHTML = FILTERS.map(([id, label, fn]) => `<button type="button" class="chip" data-f="${id}" aria-pressed="${id === filter}">${label}<b>${PLANTS.filter(fn).length}</b></button>`).join("");
+  chips.querySelectorAll(".chip").forEach(b => b.addEventListener("click", () => { filter = b.dataset.f; paintChips(); paintList(); }));
+}
+document.getElementById("sortSel").addEventListener("change", e => { sort = e.target.value; paintList(); });
+
+/* cards */
+function card(p) {
+  const s = status(p), multi = p.t.length > 1;
+  const links = LINKS.map(([k, label]) => [k, label, safeUrl((p.links || {})[k])]).filter(x => x[2]);
+  const buy = s === "sold"
+    ? `<span class="hint">This one found a home. Check the others.</span>`
+    : `${links.map(([k, label, u], i) => `<a class="btn${k === "fb" ? " fb" : i ? " ghost" : ""}" href="${esc(u)}" target="_blank" rel="noopener">${k === "fb" ? "Message me on Marketplace" : "View on " + esc(label)}</a>`).join("") || `<span class="hint">Message me through the listing that brought you here.</span>`}
+       <button class="btn ghost share" type="button">Copy link to this plant</button><span class="ok-msg" aria-live="polite"></span>`;
+  const c = el(`<article class="plant${s === "sold" ? " is-sold" : ""}" id="p${p.n}">
+    <div class="media${multi ? "" : " single"}">
+      <button class="photo" type="button" aria-label="View ${esc(p.name)} full size">
+        <img src="${small(p, p.t[0])}" alt="${esc(p.name)}, ${esc(p.bot)}" loading="lazy">
+        ${s === "sold" ? `<span class="stamp big">Sold</span>` : s === "pending" ? `<span class="stamp big pend">Pending</span>` : ""}
+        ${multi ? `<span class="count">1 / ${p.t.length}</span>` : ""}<span class="zoom">Full size</span>
+      </button>
+      ${multi ? `<div class="rail" role="group" aria-label="More photos of ${esc(p.name)}">${p.t.map((t, i) => `<button type="button" data-i="${i}" aria-pressed="${i === 0}" aria-label="Photo ${i + 1}"><img src="${small(p, t)}" alt="" loading="lazy"></button>`).join("")}</div>` : ""}
+    </div>
+    <div class="info">
+      <div class="top">
+        <div class="ident"><span class="no">No. ${pad(p.n)}</span><h3>${esc(p.name)}</h3><span class="bot">${esc(p.bot)}</span></div>
+        <div class="tag"><i>${s === "sold" ? "Sold" : "Price"}</i><b>$${p.price}${p.unit ? `<small>${esc(p.unit)}</small>` : ""}</b></div>
+      </div>
+      <div class="pills"><span class="pill ${s === "available" ? "" : s}">${STATUS[s]}</span>${p.rare ? `<span class="pill plain">Rare / variegated</span>` : ""}${p.easy ? `<span class="pill plain">Easy care</span>` : ""}</div>
+      <p class="pitch">${esc(p.pitch)}</p>
+      <dl class="facts">
+        <div><dt>Care</dt><dd>${esc(p.care)}</dd></div>
+        ${p.includes ? `<div><dt>Comes with</dt><dd>${esc(p.includes)}</dd></div>` : ""}
+      </dl>
+      <div class="buy">${buy}</div>
+    </div>
+  </article>`);
+  let cur = 0;
+  const img = c.querySelector(".photo img"), count = c.querySelector(".count");
+  c.querySelectorAll(".rail button").forEach(b => b.addEventListener("click", () => {
+    cur = +b.dataset.i; img.src = small(p, p.t[cur]); if (count) count.textContent = `${cur + 1} / ${p.t.length}`;
+    c.querySelectorAll(".rail button").forEach(x => x.setAttribute("aria-pressed", x === b));
+  }));
+  c.querySelector(".photo").addEventListener("click", () => openLb(p, cur));
+  const sh = c.querySelector(".share");
+  if (sh) sh.addEventListener("click", () => copy(plantLink(p), c.querySelector(".ok-msg"), "Link"));
+  return c;
+}
+const list = document.getElementById("list");
+function paintList() {
+  const fn = FILTERS.find(f => f[0] === filter)[2];
+  let items = PLANTS.filter(fn);
+  if (sort === "low") items = [...items].sort((a, b) => a.price - b.price);
+  if (sort === "high") items = [...items].sort((a, b) => b.price - a.price);
+  list.innerHTML = "";
+  if (!items.length) { list.innerHTML = `<div class="empty">Nothing matches that filter right now.</div>`; return; }
+  items.forEach(p => list.appendChild(card(p)));
+}
+function goTo(n) {
+  if (!document.getElementById(`p${n}`)) { filter = "all"; paintChips(); paintList(); }
+  const c = document.getElementById(`p${n}`);
+  if (!c) return;
+  c.scrollIntoView({ block: "start" });
+  c.classList.add("flash"); setTimeout(() => c.classList.remove("flash"), 1500);
+}
+
+/* lightbox */
+const lb = document.getElementById("lb"), lbImg = document.getElementById("lbImg");
+let lbP = null, lbI = 0;
+function showLb() {
+  lbImg.src = full(lbP, lbP.t[lbI]); lbImg.alt = lbP.name;
+  document.getElementById("lbTitle").innerHTML = `${esc(lbP.name)}<small>${esc(lbP.bot)} · ${esc(status(lbP) === "sold" ? "Sold" : priceText(lbP))}</small>`;
+  document.getElementById("lbCount").textContent = `${lbI + 1} / ${lbP.t.length}`;
+  document.getElementById("lbPrev").disabled = document.getElementById("lbNext").disabled = lbP.t.length < 2;
+}
+function openLb(p, i) { lbP = p; lbI = i || 0; showLb(); if (lb.showModal) lb.showModal(); else lb.setAttribute("open", ""); }
+const step = d => { if (lbP) { lbI = (lbI + d + lbP.t.length) % lbP.t.length; showLb(); } };
+document.getElementById("lbPrev").addEventListener("click", () => step(-1));
+document.getElementById("lbNext").addEventListener("click", () => step(1));
+document.getElementById("lbClose").addEventListener("click", () => lb.close());
+lb.addEventListener("keydown", e => { if (e.key === "ArrowLeft") step(-1); if (e.key === "ArrowRight") step(1); });
+document.getElementById("lbStage").addEventListener("click", e => { if (e.target.id === "lbStage") lb.close(); });
+let tx = null;
+lb.addEventListener("touchstart", e => { tx = e.touches[0].clientX; }, { passive: true });
+lb.addEventListener("touchend", e => { if (tx == null) return; const dx = e.changedTouches[0].clientX - tx; if (Math.abs(dx) > 40) step(dx < 0 ? 1 : -1); tx = null; });
+
+paintChips(); paintList();
+const m = /^#p(\d+)$/.exec(location.hash || "");
+if (m) setTimeout(() => goTo(+m[1]), 80);
+})();
+</script>
+</body>
+</html>
