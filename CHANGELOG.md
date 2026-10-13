@@ -10,6 +10,12 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 
 ## [Unreleased]
 
+### Removed
+- Seven plants Claude added that were not on Jordan's set list (Fernwood Punk, Golden Goddess cuttings, variegated White Wizard, Satin Pothos, Scindapsus treubii and two golden pothos listings), with their photos. The Thanksgiving cactus is now no. 8.
+
+### Changed
+- Pot sizes set from Jordan's sizes: Monstera 14 in, Giant Elephant Ear and Burle Marx 12 in, Mojito 10 in, the rest 6 in, Thanksgiving cactus 4 in.
+
 ### Changed
 - The snail pot (no. 8) and planter box (no. 13) are listed as included.
 

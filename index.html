@@ -4,9 +4,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Sunroom Plant Sale</title>
-<meta name="description" content="15 houseplants for sale in Chicago, photographed straight from a walkthrough of my sunroom. Real photos, fixed prices, local pickup.">
+<meta name="description" content="8 houseplants for sale in Chicago, photographed straight from a walkthrough of my sunroom. Real photos, fixed prices, local pickup.">
 <meta property="og:title" content="Sunroom Plant Sale">
-<meta property="og:description" content="15 houseplants for sale in Chicago. Real photos, fixed prices, local pickup.">
+<meta property="og:description" content="8 houseplants for sale in Chicago. Real photos, fixed prices, local pickup.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://jordanromines-jpg.github.io/plant-sale/">
 <meta property="og:image" content="https://jordanromines-jpg.github.io/plant-sale/img/06_alocasia_batik_marbled_01m04s.jpg">
@@ -273,7 +273,6 @@ const FILTERS = [
   ["available", "Available", p => status(p) === "available"],
   ["rare", "Rare and variegated", p => !!p.rare],
   ["easy", "Easy care", p => !!p.easy],
-  ["under20", "Under $20", p => p.price < 20],
 ];
 let filter = "all", sort = "featured";
 const chips = document.getElementById("chips");
