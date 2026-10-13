@@ -17,13 +17,13 @@ big-box prices, and weighted for size and variegation. Pot sizes are listed only
 | 9 | Epipremnum aureum 'Marble Queen' (Jordan's ID) | Heavy cream-to-yellow marbling on most of each leaf; very full mound about 2 ft across, 8 in pot | $50 | |
 | 10 | Philodendron 'Florida Beauty', variegated cutting (Jordan's ID) | Yellow-splashed leaves; rooted cutting in a 4 in pot | $30 | Variegated Florida Beauty cuttings list from $15 (discounted) to $40+ |
 | 11 | Dracaena 'Fernwood Punk' (formerly Sansevieria) | Tight rosette of narrow, banded spears | $22 | Retail €12 in a 10 cm pot; comes with the blue ceramic snail pot |
-| 12 | Philodendron erubescens, highly variegated (White Wizard type) | Dried cataphylls at each leaf base (Philodendron, not Monstera); new leaves almost all cream with green splash | $85 | High-variegation White Wizard types sell at a premium over $22–35 green-leaning 6 in plants |
+| 12 | Alocasia macrorrhizos, variegated, albo type (Jordan: an Alocasia) | Long petioles; cordate-sagittate leaves almost all cream with green splash | $95 | Variegated albo Alocasias sell well above green plants; young plants commonly $60–150 |
 | 13 | Scindapsus pictus 'Argyraeus' | Matte leaves with silver splash; full pot, 6 in | $25 | |
 | 14 | Monstera standleyana (Jordan: a Monstera; species ID by leaf shape) | Long, glossy, dark lanceolate leaves on winged petioles; vining; ~18 in | $40 | |
 | 15 | Epipremnum aureum 'Golden' | Yellow-streaked, full; in a mushroom-shaped pot about 6 in | $18 | |
 | 16 | Epipremnum aureum 'Golden' | Vines about 10 ft long; 6 in pot | $35 | Long established vines are the value here |
 
-Total asking: $1,080 for 17 plants across 16 listings (no. 3 is two plants).
+Total asking: $1,090 for 17 plants across 16 listings (no. 3 is two plants).
 
 
 Sources: Floral Acres and Bath Garden Center (White Wizard 6" $22–35), Planta (White Wizard 6" $144), The Succulent

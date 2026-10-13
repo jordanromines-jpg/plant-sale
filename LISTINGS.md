@@ -283,19 +283,19 @@ https://jordanromines-jpg.github.io/plant-sale/#p11
 If it's listed, it's still available.
 ```
 
-## 12. Variegated Philodendron White Wizard (high variegation)
+## 12. Variegated Alocasia (Albo)
 
-Title: Highly variegated Philodendron White Wizard, almost all cream
-Price: $85
+Title: Variegated Alocasia Albo, newest leaves almost all cream
+Price: $95
 
 ```text
-The rarest-looking plant on this page. Its newest leaves are almost entirely cream with green splash, which is the kind of variegation people pay a premium for and rarely find locally. It's potted in a chunky bark mix and putting out new leaves.
+The rarest-looking plant on this page. A variegated Alocasia whose newest leaves are almost entirely cream with green splash, the kind of variegation people pay a premium for and rarely find locally. It's potted in a chunky bark mix and putting out new leaves.
 
-Plant: Variegated Philodendron White Wizard (high variegation)
-Scientific name: Philodendron erubescens, highly variegated
+Plant: Variegated Alocasia (Albo)
+Scientific name: Alocasia macrorrhizos, variegated (albo type)
 Size: Young plant in chunky bark mix; newest leaves almost all cream
 Light: Bright, filtered light; pale leaves burn in direct sun
-Water: When the top inch dries
+Water: Keep lightly moist, never soggy
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
 
 Healthy and disease-free. It lives in a humid room and is putting out new growth.

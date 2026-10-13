@@ -11,6 +11,9 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 ## [Unreleased]
 
 ### Fixed
+- No. 12 is a variegated Alocasia (Jordan), listed as Variegated Alocasia (Albo), $95; it was wrongly called a White Wizard-type Philodendron.
+
+### Fixed
 - No. 3 is the two full-size variegated Florida Beauties (about 4 ft, 8 in pots, $100 each); no. 10 is one variegated Florida Beauty cutting in a 4 in pot ($30).
 - No. 14 is a Monstera (Jordan), listed as Monstera standleyana, not Scindapsus treubii.
 
