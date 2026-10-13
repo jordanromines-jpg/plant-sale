@@ -1,28 +1,28 @@
 # IDs and prices
 
-Revised 13 Oct 2026. Prices are asks for a local Chicago sale: below specialty-nursery retail for the same size, above
+Revised 13 Oct 2026, with sizes measured from the video against known objects: a hand (about 7.5 in), a 12 oz can (4.83 in tall), a gallon jug (about 11.5 in tall), the window muntins and the floor boards. Prices are asks for a local Chicago sale: below specialty-nursery retail for the same size, above
 big-box prices, and weighted for size and variegation. Most plants are in 6 to 8 inch pots; the giant elephant ear is
 almost 5 ft tall in a 10 to 12 inch pot.
 
 | No. | Plant | How it was identified | Price | Basis |
 |---|---|---|---|---|
-| 1 | Philodendron billietiae | Long strap-sagittate leaves on long petioles; multi-stem plant on a moss cage | $95 | Small billietiae retail $20–26; a full, multi-stem specimen on a support is several times that |
-| 2 | Alocasia macrorrhizos / odora, giant | Erect cordate-sagittate blades, thick petioles; ~5 ft, leaf span over an arm's length | $110 | 6" plants $17–20; specimens 5 ft+ are nursery-only and run $150+ |
-| 3 | Philodendron 'Florida Beauty', variegated | Pedatisect leaves, rough petioles, yellow marbling on several leaves | $85 | Variegated 4" retail up to $150; mature pole plants above that. Priced down because the variegation is uneven |
-| 4 | Monstera deliciosa | Adult fenestrated leaves, moss pole | $75 | Established 10" Monsteras $80–100 at nurseries |
-| 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves, full hanging basket | $35 | 8" baskets $30–45 retail |
-| 6 | Alocasia macrorrhizos 'Mojito' | Large sagittate leaves with cream/green marbling | $65 | Colocasia 'Mojito' starters $17–25; established variegated Alocasia priced well above starters |
+| 1 | Philodendron billietiae | Long strap-sagittate leaves on long petioles; multi-stem plant on a moss cage, about 3 ft across in a ~10 in pot | $125 | Small billietiae retail $20–26; specimens this size are rarely offered and run well over $100 |
+| 2 | Alocasia macrorrhizos / odora, giant | Erect cordate-sagittate blades, thick petioles; ~5 ft, single leaf wider than an arm's length (3+ hand lengths at 0:22) | $150 | 6 in plants $17–20; 5 ft specimens are nursery-only and run $150–250 |
+| 3 | Philodendron 'Florida Beauty', variegated | Pedatisect leaves, rough petioles, yellow marbling on several leaves; on a tall pole | $90 | Variegated 4 in retail up to $150; priced down because the variegation is uneven |
+| 4 | Monstera deliciosa | Adult fenestrated leaves; ~12 in teal pot (gallon jug is about half its height), ~3 ft moss pole | $125 | Nurseries ask $150+ for 12 in specimens on poles |
+| 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves; very full hanging basket | $45 | 8 in baskets $30–45 retail; this one is fuller than retail stock |
+| 6 | Alocasia macrorrhizos 'Mojito' | Large sagittate leaves with cream/green marbling; leaves ~18 in (about 2.5 hand widths at 1:04) | $110 | Mojito is mostly sold as small starters ($17–25); full-size variegated Alocasia command a large premium |
 | 7 | Philodendron 'White Wizard' | Glossy green leaves with white streaks on stems and petioles, on a pole | $50 | 6" retail $22–35 regular, up to $144 at boutique sellers; this one is larger and on a pole |
 | 8 | Dracaena 'Fernwood Punk' | Tight rosette of narrow, banded spears | $22 | 10 cm retail €12; priced higher if the ceramic snail pot is included |
 | 9 | Philodendron 'Golden Goddess' | Lanceolate neon-yellow leaves | $12 each | Rooted cuttings |
 | 10 | Philodendron erubescens, highly variegated (White Wizard type) | Dried cataphylls at each leaf base (Philodendron, not Monstera); cordate leaves almost all cream with green splash | $85 | High-variegation White Wizard types sell at a premium over the $22–35 green-leaning 6" plants |
-| 11 | Scindapsus pictus 'Argyraeus' | Matte leaves with silver splash | $18 | |
-| 12 | Scindapsus treubii 'Dark Form' | Narrow near-black lanceolate leaves, vining | $32 | Retail $36–50 (6–8") |
-| 13 | Epipremnum aureum, planter box | Heavily streaked golden pothos, very full | $45 | |
-| 14 | Epipremnum aureum 'Golden' | Yellow-streaked, full pots | $15 each | |
+| 11 | Scindapsus pictus 'Argyraeus' | Matte leaves with silver splash; full pot | $25 | |
+| 12 | Scindapsus treubii 'Dark Form' | Narrow near-black lanceolate leaves; full plant ~18 in tall (1:42, hand for scale) | $40 | Retail $36–50 for 6–8 in pots |
+| 13 | Epipremnum aureum, planter box | Heavily streaked golden pothos, very full | $50 | |
+| 14 | Epipremnum aureum 'Golden' | Yellow-streaked, full pots | $18 each | |
 | 15 | Schlumbergera truncata | Pointed, claw-toothed stem segments (Thanksgiving, not Christmas cactus); ~15 in tall | $25 | Includes pink ceramic pot and bamboo saucer |
 
-Total asking: $769, counting no. 9 and no. 14 once each.
+Total asking: $972, counting no. 9 and no. 14 once each.
 
 Confirm before posting: whether the blue snail pot (8) and planter box (13) are included.
 

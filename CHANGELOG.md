@@ -11,6 +11,8 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 ## [Unreleased]
 
 ### Changed
+- Repriced the large specimens using sizes measured from the video (hand, can, gallon jug for scale): billietiae $125, giant elephant ear $150, Monstera $125, Mojito $110 and others; total ask $972.
+- Added full-plant photos for the billietiae, giant elephant ear, Monstera and Scindapsus 'Dark Form'.
 - Repriced all 15 plants for their real sizes (6 to 8 inch pots; the elephant ear is almost 5 ft in a 10 to 12 inch pot): total ask $769.
 - No. 10 identified as a highly variegated White Wizard-type Philodendron (cataphylls rule out Monstera); no. 3 copy now notes its variegation; no. 2 renamed Giant elephant ear and featured first.
 

@@ -6,11 +6,11 @@ After editing `plants.js`, rebuild this file with `node tools/make_listings.js`.
 
 ## 01. Billietiae
 
-Title: Philodendron billietiae, big plant with orange petioles
-Price: $95
+Title: Philodendron billietiae, huge multi-stem plant, about 3 ft across
+Price: $125
 
 ```text
-This is the one people ask about when they walk in. It's a big, multi-stem billietiae climbing a moss cage, with long strap-shaped leaves on the long orange-tinged petioles the species is known for. Small billietiae are everywhere now. A plant this size and this full is not.
+This is the one people ask about when they walk in. It's a huge, multi-stem billietiae, about three feet across in a roughly 10 inch pot, climbing a moss cage. The leaves are long and strap-shaped on long orange-tinged petioles, the trait the species is known for. Small billietiae are everywhere now. A plant this size and this full is not.
 
 Bright, indirect light. Water when the top inch or two dries out. It likes something to climb.
 
@@ -26,7 +26,7 @@ If it's listed, it's still available.
 ## 02. Giant elephant ear
 
 Title: Giant elephant ear Alocasia, almost 5 ft tall, 12 inch pot
-Price: $110
+Price: $150
 
 ```text
 This is a statement plant. It stands almost five feet tall in a 10 to 12 inch pot, and a single leaf is wider tip to tip than my arm is long. Upright stems, huge leaves, and it's healthy and still pushing new growth. Plants this size cost well over $150 at a nursery, if you can find one.
@@ -45,11 +45,11 @@ If it's listed, it's still available.
 
 ## 03. Florida Beauty
 
-Title: Variegated Philodendron Florida Beauty, mature climber on a pole
-Price: $85
+Title: Variegated Philodendron Florida Beauty, mature climber on a tall pole
+Price: $90
 
 ```text
-Mature Florida Beauty trained up a pole, with the deep lobed leaves the hybrid is known for and yellow marbling on several of them. Florida Beauty variegation is unstable by nature, so some new leaves come in greener than others. Bright light brings more of it out. This is a big, established plant, not a rooted cutting.
+Mature Florida Beauty climbing a tall pole, with the deep lobed leaves the hybrid is known for and yellow marbling on several of them. Florida Beauty variegation is unstable by nature, so some new leaves come in greener than others, and bright light brings more of it out. This is a big, established plant, not a rooted cutting.
 
 Bright, indirect light keeps the variegation coming. Water when the top couple inches dry.
 
@@ -64,11 +64,11 @@ If it's listed, it's still available.
 
 ## 04. Monstera
 
-Title: Monstera deliciosa on a moss pole, split leaves
-Price: $75
+Title: Large Monstera deliciosa on a moss pole, 12 inch pot
+Price: $125
 
 ```text
-A Monstera that's past the awkward stage. The leaves are full size and already split, it has a lot of them, and it's climbing a moss pole so it grows up instead of sprawling across your floor. Big established Monsteras like this go for $80 to $100 at a nursery.
+A big, established Monstera in a roughly 12 inch pot, climbing a moss pole about three feet tall. The leaves are full size and deeply split, and there are a lot of them. Nurseries ask $150 and up for a Monstera this size, and it'll keep climbing as long as you extend the pole.
 
 Bright, indirect light. Water when the top couple inches are dry. Extend the pole as it climbs.
 
@@ -84,10 +84,10 @@ If it's listed, it's still available.
 ## 05. Pearls and Jade
 
 Title: Pearls and Jade pothos, full hanging basket
-Price: $35
+Price: $45
 
 ```text
-Full hanging basket of Pearls and Jade. Every leaf is speckled a little differently with cream, white and grey-green, so it looks good up close and from across the room. It's thick already and trails over the edge.
+A big hanging basket of Pearls and Jade, so full you can't see the pot. Every leaf is speckled a little differently with cream, white and grey-green, so it looks good up close and from across the room, and the vines already trail well past the basket.
 
 Medium to bright indirect light. Let it dry out a bit between waterings.
 
@@ -102,11 +102,11 @@ If it's listed, it's still available.
 
 ## 06. Mojito elephant ear
 
-Title: Variegated Alocasia Mojito, big marbled leaves
-Price: $65
+Title: Variegated Alocasia Mojito, large plant with 18 inch marbled leaves
+Price: $110
 
 ```text
-Big arrowhead leaves marbled green and cream, and no two leaves carry the same pattern. It looks hand-painted in person, and the photos undersell it.
+A large Alocasia Mojito with leaves around a foot and a half long, every one marbled green and cream in its own pattern. It looks hand-painted in person, and the photos undersell it. Most Mojitos you'll see for sale are small starters. This one is a full-size plant.
 
 Bright, indirect light and steady moisture. Keep it away from cold drafts.
 
@@ -198,10 +198,10 @@ If it's listed, it's still available.
 ## 11. Satin pothos
 
 Title: Satin pothos (Scindapsus pictus Argyraeus), silver spots
-Price: $18
+Price: $25
 
 ```text
-Satin pothos with matte, dark leaves splashed in silver. It grows slower and stays tidier than regular pothos, and it's fine in medium light.
+A full pot of satin pothos with matte, dark leaves splashed in silver. It grows slower and stays tidier than regular pothos, and it's fine in medium light.
 
 Low to medium light. Water when the soil is mostly dry.
 
@@ -216,11 +216,11 @@ If it's listed, it's still available.
 
 ## 12. Scindapsus Dark Form
 
-Title: Scindapsus treubii Dark Form, near-black leaves
-Price: $32
+Title: Scindapsus treubii Dark Form, full plant, near-black leaves
+Price: $40
 
 ```text
-Narrow leaves so dark green they read almost black, on vines that trail without getting messy. Plant shops sell this one for $35 and up.
+A full Scindapsus treubii 'Dark Form', about a foot and a half tall, with narrow leaves so dark green they read almost black. It stays tidy and trails without getting messy. Plant shops sell small ones for $35 and up.
 
 Medium, indirect light. Let it dry out between waterings. It's slow, so don't overpot it.
 
@@ -236,10 +236,10 @@ If it's listed, it's still available.
 ## 13. Pothos planter box
 
 Title: Huge pothos in a wooden planter box
-Price: $45
+Price: $50
 
 ```text
-A huge, full pothos in a wooden planter box. If you want a lot of green for not a lot of money, this is it. Set it on a shelf or a dresser and let it trail.
+A huge, full pothos in a wooden planter box, with yellow streaking on nearly every leaf. If you want a lot of plant for not a lot of money, this is it. Set it on a shelf or a dresser and let it trail.
 
 Low to bright indirect light. Water when the top half of the soil dries out.
 
@@ -255,7 +255,7 @@ If it's listed, it's still available.
 ## 14. Golden pothos
 
 Title: Golden pothos, full pots
-Price: $15 each
+Price: $18 each
 
 ```text
 Golden pothos in full pots with yellow streaking on the leaves. It forgives a missed watering and grows fast enough that you'll have cuttings to give away. Price is per pot.
