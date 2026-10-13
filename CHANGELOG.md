@@ -11,6 +11,12 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 ## [Unreleased]
 
 ### Changed
+- The snail pot (no. 8) and planter box (no. 13) are listed as included.
+
+### Removed
+- Estimated pot sizes, which were wrong for most plants; pot sizes now appear only where Jordan gave them.
+
+### Changed
 - No. 1 is a Philodendron 'Burle Marx' (Jordan's ID), repriced to $70; no. 3 lists two Florida Beauties at $90 each.
 - Every plant now shows the name buyers search for, the scientific name, size, pot, what's included, light, water and pet safety, on the page and in `LISTINGS.md`.
 - Repriced the large specimens using sizes measured from the video (hand, can, gallon jug for scale): billietiae $125, giant elephant ear $150, Monstera $125, Mojito $110 and others; total ask $972.

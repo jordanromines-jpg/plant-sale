@@ -1,15 +1,15 @@
 # IDs and prices
 
 Revised 13 Oct 2026, with sizes measured from the video against known objects: a hand (about 7.5 in), a 12 oz can (4.83 in tall), a gallon jug (about 11.5 in tall), the window muntins and the floor boards. Prices are asks for a local Chicago sale: below specialty-nursery retail for the same size, above
-big-box prices, and weighted for size and variegation. Most plants are in 6 to 8 inch pots; the giant elephant ear is
-almost 5 ft tall in a 10 to 12 inch pot.
+big-box prices, and weighted for size and variegation. Pot sizes are listed only where Jordan gave them: the giant elephant ear is almost
+5 ft tall in a 10 to 12 inch pot.
 
 | No. | Plant | How it was identified | Price | Basis |
 |---|---|---|---|---|
-| 1 | Philodendron 'Burle Marx' (corrected by Jordan; was listed as billietiae) | Glossy sagittate leaves on long petioles; very full climber on a moss cage, about 3 ft across in a ~10 in pot | $70 | A common cultivar: 6 in pots retail $20–35. Priced for its size, not rarity |
+| 1 | Philodendron 'Burle Marx' (corrected by Jordan; was listed as billietiae) | Glossy sagittate leaves on long petioles; very full climber on a moss cage, about 3 ft across | $70 | A common cultivar: 6 in pots retail $20–35. Priced for its size, not rarity |
 | 2 | Alocasia macrorrhizos / odora, giant | Erect cordate-sagittate blades, thick petioles; ~5 ft, single leaf wider than an arm's length (3+ hand lengths at 0:22) | $150 | 6 in plants $17–20; 5 ft specimens are nursery-only and run $150–250 |
 | 3 | Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum), variegated, 2 plants | Pedatisect leaves, rough petioles, yellow marbling on several leaves; two climbers about the same height on tall poles | $90 each | Variegated 4 in retail up to $150; priced down because the variegation is uneven |
-| 4 | Monstera deliciosa | Adult fenestrated leaves; ~12 in teal pot (gallon jug is about half its height), ~3 ft moss pole | $125 | Nurseries ask $150+ for 12 in specimens on poles |
+| 4 | Monstera deliciosa | Adult fenestrated leaves; teal pot, ~3 ft moss pole | $125 | Nurseries ask $150+ for 12 in specimens on poles |
 | 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves; very full hanging basket | $45 | 8 in baskets $30–45 retail; this one is fuller than retail stock |
 | 6 | Alocasia macrorrhizos 'Mojito' | Large sagittate leaves with cream/green marbling; leaves ~18 in (about 2.5 hand widths at 1:04) | $110 | Mojito is mostly sold as small starters ($17–25); full-size variegated Alocasia command a large premium |
 | 7 | Philodendron 'White Wizard' | Glossy green leaves with white streaks on stems and petioles, on a pole | $50 | 6" retail $22–35 regular, up to $144 at boutique sellers; this one is larger and on a pole |
@@ -24,7 +24,7 @@ almost 5 ft tall in a 10 to 12 inch pot.
 
 Total asking: $1,025 (no. 3 and no. 14 counted as two plants each; no. 9 counted once).
 
-Confirm before posting: whether the blue snail pot (8) and planter box (13) are included.
+The blue snail pot (8) and the wooden planter box (13) come with their plants (Jordan, 13 Oct 2026).
 
 Sources: Floral Acres and Bath Garden Center (White Wizard 6" $22–35), Planta (White Wizard 6" $144), The Succulent
 Source (variegated Florida Beauty 4" $149.99), Sprout Home and Steve's Leaves (S. treubii 'Dark Form' $36–50),

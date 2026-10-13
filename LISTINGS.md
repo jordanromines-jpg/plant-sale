@@ -10,12 +10,11 @@ Title: Philodendron Burle Marx, huge climbing plant, 3 ft across
 Price: $70
 
 ```text
-A huge, full Burle Marx, about three feet across and climbing a moss cage, with glossy arrow-shaped leaves on long stems. Most Burle Marx you'll find are small pots with a few leaves. This one is a lot of plant and fills a corner on its own. It's an easy grower that keeps climbing as long as it has something to hold.
+A huge, full Burle Marx, about three feet across, climbing a moss cage, with glossy arrow-shaped leaves on long stems. Most Burle Marx you'll find are small pots with a few leaves. This one is a lot of plant and fills a corner on its own. It's an easy grower that keeps climbing as long as it has something to hold.
 
 Plant: Philodendron Burle Marx
 Scientific name: Philodendron 'Burle Marx'
 Size: About 3 ft across, very full, climbing a moss cage
-Pot: About 10 in
 Light: Medium to bright indirect light
 Water: When the top inch or two dries out
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -67,7 +66,6 @@ Plant: Variegated Philodendron Florida Beauty
 Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
 Available: 2 available, about the same height
 Size: Mature climbers on tall poles
-Pot: About 6 in
 Light: Bright, indirect light keeps the variegation coming
 Water: When the top couple inches dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -83,16 +81,15 @@ If it's listed, it's still available.
 
 ## 04. Monstera Deliciosa (Swiss Cheese Plant)
 
-Title: Large Monstera Deliciosa on a moss pole, 12 inch pot
+Title: Large Monstera Deliciosa on a 3 ft moss pole
 Price: $125
 
 ```text
-A big, established Monstera in a roughly 12 inch pot, climbing a moss pole about three feet tall. The leaves are full size and deeply split, and there are a lot of them. Nurseries ask $150 and up for a Monstera this size, and it'll keep climbing as long as you extend the pole.
+A big, established Monstera climbing a moss pole about three feet tall. The leaves are full size and deeply split, and there are a lot of them. Nurseries ask $150 and up for a Monstera this size, and it'll keep climbing as long as you extend the pole.
 
 Plant: Monstera Deliciosa (Swiss Cheese Plant)
 Scientific name: Monstera deliciosa
 Size: Large, many full-size split leaves, on a moss pole about 3 ft tall
-Pot: About 12 in
 Light: Bright, indirect light
 Water: When the top couple inches are dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -117,7 +114,7 @@ A big hanging basket of Pearls and Jade, so full you can't see the pot. Every le
 Plant: Pearls and Jade Pothos
 Scientific name: Epipremnum aureum 'Pearls and Jade'
 Size: Very full hanging basket; vines trail well past the pot
-Pot: Hanging basket, about 8 in
+Pot: Hanging basket
 Light: Medium to bright indirect light
 Water: Let it dry out a bit between waterings
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -166,7 +163,6 @@ White Wizard climbing a pole, with deep green leaves and white streaks running u
 Plant: Philodendron White Wizard
 Scientific name: Philodendron erubescens 'White Wizard'
 Size: Climbing a pole
-Pot: About 6 in
 Light: Bright, indirect light helps the white show
 Water: When the top inch dries
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -186,12 +182,13 @@ Title: Snake Plant Fernwood Punk, compact
 Price: $22
 
 ```text
-A compact Fernwood Punk snake plant: a tight rosette of narrow, banded spears instead of the usual wide leaves. It handles low light and forgotten waterings better than almost anything, which makes it a good first plant or an easy gift.
+A compact Fernwood Punk snake plant in a blue ceramic snail pot, which comes with it: a tight rosette of narrow, banded spears instead of the usual wide leaves. It handles low light and forgotten waterings better than almost anything, which makes it a good first plant or an easy gift.
 
 Plant: Snake Plant Fernwood Punk
 Scientific name: Dracaena 'Fernwood Punk' (formerly Sansevieria)
 Size: Compact rosette
-Pot: Shown in a blue ceramic snail pot, about 5 in
+Pot: Blue ceramic snail pot
+Comes with: Blue ceramic snail pot
 Light: Low to bright light
 Water: Every few weeks, less in winter
 Pets: Mildly toxic to cats and dogs if chewed (saponins).
@@ -241,8 +238,7 @@ The rarest-looking plant on this page. Its newest leaves are almost entirely cre
 
 Plant: Variegated Philodendron White Wizard (high variegation)
 Scientific name: Philodendron erubescens, highly variegated
-Size: Young plant, newest leaves almost all cream
-Pot: About 6 in, chunky bark mix
+Size: Young plant in chunky bark mix; newest leaves almost all cream
 Light: Bright, filtered light; pale leaves burn in direct sun
 Water: When the top inch dries
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -267,7 +263,6 @@ A full pot of satin pothos with matte, dark leaves splashed in silver. It grows 
 Plant: Satin Pothos (Silver Satin)
 Scientific name: Scindapsus pictus 'Argyraeus'
 Size: Full pot
-Pot: About 6 in
 Light: Low to medium light
 Water: When the soil is mostly dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -292,7 +287,6 @@ A full Scindapsus treubii 'Dark Form', about a foot and a half tall, with narrow
 Plant: Scindapsus Treubii Dark Form
 Scientific name: Scindapsus treubii 'Dark Form'
 Size: Full plant, about 18 in tall
-Pot: About 6 in
 Light: Medium, indirect light
 Water: Let it dry out between waterings; it's slow, so don't overpot it
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -312,12 +306,13 @@ Title: Huge Golden Pothos in a wooden planter box
 Price: $50
 
 ```text
-A huge, full pothos in a wooden planter box, with yellow streaking on nearly every leaf. If you want a lot of plant for not a lot of money, this is it. Set it on a shelf or a dresser and let it trail.
+A huge, full pothos in a wooden planter box that comes with it, with yellow streaking on nearly every leaf. If you want a lot of plant for not a lot of money, this is it. Set it on a shelf or a dresser and let it trail.
 
 Plant: Golden Pothos, Large
 Scientific name: Epipremnum aureum
 Size: Very full mound, about 2 ft across
 Pot: Wooden planter box
+Comes with: Wooden planter box
 Light: Low to bright indirect light
 Water: When the top half of the soil dries out
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -343,7 +338,6 @@ Plant: Golden Pothos
 Scientific name: Epipremnum aureum 'Golden'
 Available: 2 pots
 Size: Full pots
-Pot: About 6 in
 Light: Low to bright indirect light
 Water: When the top inch or two is dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -368,7 +362,7 @@ A full Thanksgiving cactus, about 15 inches tall, in a pink ceramic pot with a b
 Plant: Thanksgiving Cactus (Holiday Cactus)
 Scientific name: Schlumbergera truncata
 Size: About 15 in tall, full
-Pot: About 5 in pink ceramic pot with bamboo saucer
+Pot: Pink ceramic pot with bamboo saucer
 Comes with: Pink ceramic pot and bamboo saucer
 Light: Bright, indirect light; it's a forest cactus, so keep it out of hot direct sun
 Water: When the top inch is dry
