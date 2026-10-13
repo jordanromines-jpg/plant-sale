@@ -108,16 +108,16 @@ If it's listed, it's still available.
 
 ## 05. Pearls and Jade Pothos
 
-Title: Pearls and Jade Pothos, very full hanging basket
+Title: Pearls and Jade Pothos, very full, long trailing vines
 Price: $45
 
 ```text
-A big hanging basket of Pearls and Jade, so full you can't see the pot. Every leaf is speckled a little differently with cream, white and grey-green, so it looks good up close and from across the room, and the vines already trail well past the basket.
+A very full Pearls and Jade, so thick you can't see the pot. Every leaf is speckled a little differently with cream, white and grey-green, so it looks good up close and from across the room, and the vines already trail a long way.
 
 Plant: Pearls and Jade Pothos
 Scientific name: Epipremnum aureum 'Pearls and Jade'
-Size: Very full hanging basket; vines trail well past the pot
-Pot: 6 in hanging basket
+Size: Very full; the vines trail well past the pot
+Pot: 6 in
 Light: Medium to bright indirect light
 Water: Let it dry out a bit between waterings
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -209,17 +209,15 @@ If it's listed, it's still available.
 
 ## 09. Marble Queen Pothos, Large
 
-Title: Huge Marble Queen Pothos in a wooden planter box
+Title: Huge Marble Queen Pothos, very full
 Price: $50
 
 ```text
-A huge, full Marble Queen pothos in a wooden planter box that comes with it. Nearly every leaf is streaked cream and green, and it's thick enough that you can't see the soil. Set it on a shelf or a dresser and let it trail.
+A huge, full Marble Queen pothos, about two feet across. Nearly every leaf is streaked cream and green, and it's thick enough that you can't see the soil. Set it on a shelf or a dresser and let it trail.
 
 Plant: Marble Queen Pothos, Large
 Scientific name: Epipremnum aureum 'Marble Queen'
 Size: Very full mound, about 2 ft across
-Pot: Wooden planter box
-Comes with: Wooden planter box
 Light: Medium to bright indirect light keeps the marbling strong
 Water: When the top half of the soil dries out
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -229,6 +227,30 @@ Pickup in Chicago.
 
 More photos of this plant, and everything else I have for sale:
 https://jordanromines-jpg.github.io/plant-sale/#p9
+
+If it's listed, it's still available.
+```
+
+## 10. Variegated Philodendron Florida Beauty Cutting
+
+Title: Variegated Philodendron Florida Beauty cutting, bright yellow variegation
+Price: $30 each
+
+```text
+A variegated Florida Beauty cutting with leaves splashed bright yellow, some almost fully yellow. It's the cheapest way to get a variegated Florida Beauty, and it'll grow into the lobed adult leaves of the big plants on this page. Price is per cutting.
+
+Plant: Variegated Philodendron Florida Beauty Cutting
+Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
+Size: Rooted cutting with bright yellow variegated leaves
+Light: Bright, indirect light keeps the variegation coming
+Water: Keep the mix lightly moist while it settles in
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p10
 
 If it's listed, it's still available.
 ```

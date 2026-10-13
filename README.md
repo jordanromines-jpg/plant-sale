@@ -2,7 +2,7 @@
 
 Listing page for 15 houseplants, served from GitHub Pages and linked from Marketplace listings.
 
-A one-page listing site for 9 houseplants, served from GitHub Pages at
+A one-page listing site for 10 houseplants, served from GitHub Pages at
 https://jordanromines-jpg.github.io/plant-sale/. Each Marketplace, Craigslist or OfferUp listing links to its plant
 with `#p<number>`, e.g. `…/plant-sale/#p6`.
 

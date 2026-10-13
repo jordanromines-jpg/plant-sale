@@ -10,13 +10,14 @@ big-box prices, and weighted for size and variegation. Pot sizes are listed only
 | 2 | Alocasia macrorrhizos / odora, giant | Erect cordate-sagittate blades, thick petioles; ~5 ft, single leaf wider than an arm's length (3+ hand lengths at 0:22) | $150 | 6 in plants $17–20; 5 ft specimens are nursery-only and run $150–250 |
 | 3 | Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum), variegated, 2 plants | Pedatisect leaves, rough petioles, yellow marbling on several leaves; two climbers about the same height on tall poles | $90 each | Variegated 4 in retail up to $150; priced down because the variegation is uneven |
 | 4 | Monstera deliciosa | Adult fenestrated leaves; teal pot, ~3 ft moss pole | $125 | Nurseries ask $150+ for 12 in specimens on poles |
-| 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves; very full hanging basket | $45 | 8 in baskets $30–45 retail; this one is fuller than retail stock |
+| 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves; very full plant | $45 | Full 6 in plants $30–45 retail; this one is fuller than retail stock |
 | 6 | Alocasia 'Batik' (Jordan's ID) | Large sagittate leaves with cream/green marbling; leaves ~18 in (about 2.5 hand widths at 1:04) | $110 | Marbled Alocasias are mostly sold as small starters; full-size variegated Alocasia command a large premium |
 | 7 | Philodendron 'White Wizard' | Glossy green leaves with white streaks on stems and petioles, on a pole | $50 | 6" retail $22–35 regular, up to $144 at boutique sellers; this one is larger and on a pole |
 | 8 | Schlumbergera truncata | Pointed, claw-toothed stem segments (Thanksgiving, not Christmas cactus); ~15 in tall | $25 | Includes pink ceramic pot and bamboo saucer |
-| 9 | Epipremnum aureum 'Marble Queen' (Jordan's ID) | Heavy cream-to-yellow marbling on most of each leaf; very full mound about 2 ft across | $50 | Includes the wooden planter box |
+| 9 | Epipremnum aureum 'Marble Queen' (Jordan's ID) | Heavy cream-to-yellow marbling on most of each leaf; very full mound about 2 ft across | $50 | |
+| 10 | Philodendron 'Florida Beauty', variegated cutting (Jordan's ID) | Yellow-splashed leaves on a rooted cutting | $30 each | Variegated Florida Beauty cuttings list from $15 (discounted) to $40+; rooted, well-coloured ones sell at the upper end |
 
-Total asking: $805 (no. 3 counted as two plants).
+Total asking: $835 (no. 3 counted as two plants; no. 10 counted once).
 
 
 Sources: Floral Acres and Bath Garden Center (White Wizard 6" $22–35), Planta (White Wizard 6" $144), The Succulent

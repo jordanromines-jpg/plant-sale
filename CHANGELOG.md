@@ -11,6 +11,12 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 ## [Unreleased]
 
 ### Added
+- No. 10, variegated Florida Beauty cutting ($30 each), per Jordan.
+
+### Fixed
+- No baskets or boxes: Pearls and Jade is no longer called a hanging basket, and the Marble Queen no longer lists a planter box.
+
+### Added
 - No. 9, Marble Queen Pothos in its wooden planter box ($50), per Jordan.
 
 ### Fixed
