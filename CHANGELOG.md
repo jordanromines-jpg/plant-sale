@@ -10,6 +10,10 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 
 ## [Unreleased]
 
+### Changed
+- Repriced all 15 plants for their real sizes (6 to 8 inch pots; the elephant ear is almost 5 ft in a 10 to 12 inch pot): total ask $769.
+- No. 10 identified as a highly variegated White Wizard-type Philodendron (cataphylls rule out Monstera); no. 3 copy now notes its variegation; no. 2 renamed Giant elephant ear and featured first.
+
 ### Added
 - Project scaffold from [template-repo](https://github.com/jordanromines-jpg/template-repo).
 - Listing page for 15 plants with photos from the walkthrough video, final prices, care notes and per-plant links (`#p<number>`).
