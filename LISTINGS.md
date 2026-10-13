@@ -241,6 +241,7 @@ A variegated Florida Beauty cutting with leaves splashed bright yellow, some alm
 
 Plant: Variegated Philodendron Florida Beauty Cutting
 Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
+Available: 2 available
 Size: Rooted cutting with bright yellow variegated leaves
 Light: Bright, indirect light keeps the variegation coming
 Water: Keep the mix lightly moist while it settles in
@@ -251,6 +252,129 @@ Pickup in Chicago.
 
 More photos of this plant, and everything else I have for sale:
 https://jordanromines-jpg.github.io/plant-sale/#p10
+
+If it's listed, it's still available.
+```
+
+## 11. Snake Plant Fernwood Punk
+
+Title: Snake Plant Fernwood Punk, compact
+Price: $22
+
+```text
+A compact Fernwood Punk snake plant in a blue ceramic snail pot, which comes with it: a tight rosette of narrow, banded spears instead of the usual wide leaves. It handles low light and forgotten waterings better than almost anything, which makes it a good first plant or an easy gift.
+
+Plant: Snake Plant Fernwood Punk
+Scientific name: Dracaena 'Fernwood Punk' (formerly Sansevieria)
+Size: Compact rosette
+Pot: Blue ceramic snail pot
+Comes with: Blue ceramic snail pot
+Light: Low to bright light
+Water: Every few weeks, less in winter
+Pets: Mildly toxic to cats and dogs if chewed (saponins).
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p11
+
+If it's listed, it's still available.
+```
+
+## 12. Variegated Philodendron White Wizard (high variegation)
+
+Title: Highly variegated Philodendron White Wizard, almost all cream
+Price: $85
+
+```text
+The rarest-looking plant on this page. Its newest leaves are almost entirely cream with green splash, which is the kind of variegation people pay a premium for and rarely find locally. It's potted in a chunky bark mix and putting out new leaves.
+
+Plant: Variegated Philodendron White Wizard (high variegation)
+Scientific name: Philodendron erubescens, highly variegated
+Size: Young plant in chunky bark mix; newest leaves almost all cream
+Light: Bright, filtered light; pale leaves burn in direct sun
+Water: When the top inch dries
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p12
+
+If it's listed, it's still available.
+```
+
+## 13. Satin Pothos (Silver Satin)
+
+Title: Satin Pothos (Scindapsus pictus Argyraeus), full pot, silver leaves
+Price: $25
+
+```text
+A full pot of satin pothos with matte, dark leaves splashed in silver. It grows slower and stays tidier than regular pothos, and it's fine in medium light.
+
+Plant: Satin Pothos (Silver Satin)
+Scientific name: Scindapsus pictus 'Argyraeus'
+Size: Full pot
+Light: Low to medium light
+Water: When the soil is mostly dry
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p13
+
+If it's listed, it's still available.
+```
+
+## 14. Scindapsus Treubii Dark Form
+
+Title: Scindapsus Treubii Dark Form, full plant, near-black leaves
+Price: $40
+
+```text
+A full Scindapsus treubii 'Dark Form', about a foot and a half tall, with narrow leaves so dark green they read almost black. It stays tidy and trails without getting messy. Plant shops sell small ones for $35 and up.
+
+Plant: Scindapsus Treubii Dark Form
+Scientific name: Scindapsus treubii 'Dark Form'
+Size: Full plant, about 18 in tall
+Light: Medium, indirect light
+Water: Let it dry out between waterings; it's slow, so don't overpot it
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p14
+
+If it's listed, it's still available.
+```
+
+## 15. Golden Pothos
+
+Title: Golden Pothos, full pots
+Price: $18 each
+
+```text
+Golden pothos in full pots with yellow streaking on the leaves. It forgives a missed watering and grows fast enough that you'll have cuttings to give away. Price is per pot.
+
+Plant: Golden Pothos
+Scientific name: Epipremnum aureum 'Golden'
+Available: 2 available
+Size: Full pots
+Light: Low to bright indirect light
+Water: When the top inch or two is dry
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p15
 
 If it's listed, it's still available.
 ```

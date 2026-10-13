@@ -16,8 +16,13 @@ big-box prices, and weighted for size and variegation. Pot sizes are listed only
 | 8 | Schlumbergera truncata | Pointed, claw-toothed stem segments (Thanksgiving, not Christmas cactus); ~15 in tall | $25 | Includes pink ceramic pot and bamboo saucer |
 | 9 | Epipremnum aureum 'Marble Queen' (Jordan's ID) | Heavy cream-to-yellow marbling on most of each leaf; very full mound about 2 ft across | $50 | |
 | 10 | Philodendron 'Florida Beauty', variegated cutting (Jordan's ID) | Yellow-splashed leaves on a rooted cutting | $30 each | Variegated Florida Beauty cuttings list from $15 (discounted) to $40+; rooted, well-coloured ones sell at the upper end |
+| 11 | Dracaena 'Fernwood Punk' (formerly Sansevieria) | Tight rosette of narrow, banded spears | $22 | Retail €12 in a 10 cm pot; comes with the blue ceramic snail pot |
+| 12 | Philodendron erubescens, highly variegated (White Wizard type) | Dried cataphylls at each leaf base (Philodendron, not Monstera); new leaves almost all cream with green splash | $85 | High-variegation White Wizard types sell at a premium over $22–35 green-leaning 6 in plants |
+| 13 | Scindapsus pictus 'Argyraeus' | Matte leaves with silver splash; full pot | $25 | |
+| 14 | Scindapsus treubii 'Dark Form' | Narrow near-black lanceolate leaves; full plant ~18 in tall | $40 | Retail $36–50 for 6–8 in pots |
+| 15 | Epipremnum aureum 'Golden', 2 plants | Yellow-streaked, full pots | $18 each | |
 
-Total asking: $835 (no. 3 counted as two plants; no. 10 counted once).
+Total asking: $1,073 for 18 plants (nos. 3, 10 and 15 are two plants each).
 
 
 Sources: Floral Acres and Bath Garden Center (White Wizard 6" $22–35), Planta (White Wizard 6" $144), The Succulent

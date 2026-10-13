@@ -11,6 +11,9 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 ## [Unreleased]
 
 ### Added
+- Restored five plants on Jordan's inventory: Fernwood Punk snake plant (with its snail pot), highly variegated White Wizard, Satin Pothos, Scindapsus treubii 'Dark Form' and Golden Pothos (2). The Florida Beauty cutting is listed as 2 available. The sale is 18 plants across 15 listings.
+
+### Added
 - No. 10, variegated Florida Beauty cutting ($30 each), per Jordan.
 
 ### Fixed
