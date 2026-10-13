@@ -10,6 +10,12 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 
 ## [Unreleased]
 
+### Added
+- No. 9, Marble Queen Pothos in its wooden planter box ($50), per Jordan.
+
+### Fixed
+- No. 6 is an Alocasia 'Batik' (Jordan's ID), not 'Mojito'.
+
 ### Removed
 - Seven plants Claude added that were not on Jordan's set list (Fernwood Punk, Golden Goddess cuttings, variegated White Wizard, Satin Pothos, Scindapsus treubii and two golden pothos listings), with their photos. The Thanksgiving cactus is now no. 8.
 

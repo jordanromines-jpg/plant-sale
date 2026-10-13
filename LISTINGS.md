@@ -131,16 +131,16 @@ https://jordanromines-jpg.github.io/plant-sale/#p5
 If it's listed, it's still available.
 ```
 
-## 06. Alocasia Mojito
+## 06. Alocasia Batik
 
-Title: Variegated Alocasia Mojito, large plant with 18 inch marbled leaves
+Title: Variegated Alocasia Batik, large plant with 18 inch marbled leaves
 Price: $110
 
 ```text
-A large Alocasia Mojito with leaves around a foot and a half long, every one marbled green and cream in its own pattern. It looks hand-painted in person, and the photos undersell it. Most Mojitos you'll see for sale are small starters. This one is a full-size plant.
+A large Alocasia Batik with leaves around a foot and a half long, every one marbled green and cream in its own pattern, like a batik print. It looks hand-painted in person, and the photos undersell it. Most variegated Alocasias you'll see for sale are small starters. This one is a full-size plant.
 
-Plant: Alocasia Mojito
-Scientific name: Alocasia macrorrhizos 'Mojito'
+Plant: Alocasia Batik
+Scientific name: Alocasia 'Batik'
 Size: Full-size plant; leaves about 18 in long
 Pot: 10 in
 Light: Bright, indirect light
@@ -203,6 +203,32 @@ Pickup in Chicago.
 
 More photos of this plant, and everything else I have for sale:
 https://jordanromines-jpg.github.io/plant-sale/#p8
+
+If it's listed, it's still available.
+```
+
+## 09. Marble Queen Pothos, Large
+
+Title: Huge Marble Queen Pothos in a wooden planter box
+Price: $50
+
+```text
+A huge, full Marble Queen pothos in a wooden planter box that comes with it. Nearly every leaf is streaked cream and green, and it's thick enough that you can't see the soil. Set it on a shelf or a dresser and let it trail.
+
+Plant: Marble Queen Pothos, Large
+Scientific name: Epipremnum aureum 'Marble Queen'
+Size: Very full mound, about 2 ft across
+Pot: Wooden planter box
+Comes with: Wooden planter box
+Light: Medium to bright indirect light keeps the marbling strong
+Water: When the top half of the soil dries out
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p9
 
 If it's listed, it's still available.
 ```
