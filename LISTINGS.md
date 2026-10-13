@@ -57,17 +57,17 @@ If it's listed, it's still available.
 
 ## 03. Variegated Philodendron Florida Beauty
 
-Title: Variegated Philodendron Florida Beauty, mature climber on a pole (2 available)
-Price: $90 each
+Title: Variegated Philodendron Florida Beauty, 4 ft tall, 8 inch pot (2 available)
+Price: $100 each
 
 ```text
-Two mature Florida Beauties, about the same height, each climbing a tall pole with the deep lobed leaves the hybrid is known for and yellow marbling on several leaves. Florida Beauty variegation is unstable by nature, so some new leaves come in greener than others, and bright light brings more of it out. These are established plants, not rooted cuttings. Price is per plant.
+Two full-size variegated Florida Beauties, each about four feet tall on a pole in an 8 inch pot, with the deep lobed leaves the hybrid is known for and yellow marbling on several of them. Florida Beauty variegation shifts from leaf to leaf, and bright light brings more of it out. These are established plants, not rooted cuttings. Price is per plant.
 
 Plant: Variegated Philodendron Florida Beauty
 Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
-Available: 2 available, about the same height
-Size: Mature climbers on tall poles
-Pot: 6 in
+Available: 2 available
+Size: Full-size, about 4 ft tall on poles
+Pot: 8 in
 Light: Bright, indirect light keeps the variegation coming
 Water: When the top couple inches dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -232,21 +232,20 @@ https://jordanromines-jpg.github.io/plant-sale/#p9
 If it's listed, it's still available.
 ```
 
-## 10. Variegated Philodendron Florida Beauty, 4 ft
+## 10. Variegated Philodendron Florida Beauty Cutting
 
-Title: Variegated Philodendron Florida Beauty, 4 ft tall, 8 inch pot (2 available)
-Price: $100 each
+Title: Variegated Philodendron Florida Beauty cutting, bright yellow, 4 inch pot
+Price: $30
 
 ```text
-Two full-size variegated Florida Beauties, each about four feet tall in an 8 inch pot, with leaves splashed bright yellow, some almost fully yellow. That much yellow on plants this size is what people hunt for with this hybrid. Florida Beauty variegation shifts from leaf to leaf, and bright light brings more of it out. Price is per plant.
+A variegated Florida Beauty cutting in a 4 inch pot, with leaves splashed bright yellow, some almost fully yellow. It's the cheapest way to get a variegated Florida Beauty, and it'll grow into the lobed leaves of the big plants on this page.
 
-Plant: Variegated Philodendron Florida Beauty, 4 ft
+Plant: Variegated Philodendron Florida Beauty Cutting
 Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
-Available: 2 available
-Size: Full-size plants, about 4 ft tall
-Pot: 8 in
+Size: Rooted cutting with bright yellow variegated leaves
+Pot: 4 in
 Light: Bright, indirect light keeps the variegation coming
-Water: When the top couple inches dry
+Water: Keep the mix lightly moist while it settles in
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
 
 Healthy and disease-free. It lives in a humid room and is putting out new growth.
@@ -333,19 +332,19 @@ https://jordanromines-jpg.github.io/plant-sale/#p13
 If it's listed, it's still available.
 ```
 
-## 14. Scindapsus Treubii Dark Form
+## 14. Monstera Standleyana
 
-Title: Scindapsus Treubii Dark Form, full plant, near-black leaves
+Title: Monstera Standleyana, full vining plant, dark glossy leaves
 Price: $40
 
 ```text
-A full Scindapsus treubii 'Dark Form', about a foot and a half tall, with narrow leaves so dark green they read almost black. It stays tidy and trails without getting messy. Plant shops sell small ones for $35 and up.
+A full Monstera standleyana, about a foot and a half tall, with long, glossy, dark green leaves on winged stems. It's a vining Monstera, so it trails or climbs instead of spreading out, and it stays a manageable size. It's a lot less common than the classic Swiss cheese plant.
 
-Plant: Scindapsus Treubii Dark Form
-Scientific name: Scindapsus treubii 'Dark Form'
-Size: Full plant, about 18 in tall
-Light: Medium, indirect light
-Water: Let it dry out between waterings; it's slow, so don't overpot it
+Plant: Monstera Standleyana
+Scientific name: Monstera standleyana
+Size: Full plant, about 18 in tall, vining
+Light: Medium to bright indirect light
+Water: When the top inch or two dries
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
 
 Healthy and disease-free. It lives in a humid room and is putting out new growth.

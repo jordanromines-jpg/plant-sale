@@ -10,6 +10,10 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 
 ## [Unreleased]
 
+### Fixed
+- No. 3 is the two full-size variegated Florida Beauties (about 4 ft, 8 in pots, $100 each); no. 10 is one variegated Florida Beauty cutting in a 4 in pot ($30).
+- No. 14 is a Monstera (Jordan), listed as Monstera standleyana, not Scindapsus treubii.
+
 ### Changed
 - Pot sizes from Jordan: Marble Queen 8 in, Satin Pothos 6 in, golden pothos 6 in.
 - No. 10 is two full-size variegated Florida Beauties, about 4 ft tall in 8 in pots, $100 each (not cuttings).
