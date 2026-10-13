@@ -128,7 +128,7 @@ h3 { font-family: var(--display); font-weight: 800; text-transform: uppercase; f
 .pill.plain { background: var(--bg); color: var(--muted); }
 .pitch { margin: 0; font-size: 17px; max-width: 56ch; }
 .facts { margin: 0; display: grid; gap: 8px; max-width: 56ch; }
-.facts div { display: grid; grid-template-columns: 74px minmax(0, 1fr); gap: 10px; font-size: 14.5px; }
+.facts div { display: grid; grid-template-columns: 92px minmax(0, 1fr); gap: 10px; font-size: 14.5px; }
 .facts dt { font-family: var(--mono); font-size: 11px; letter-spacing: .08em; text-transform: uppercase; padding-top: 3px; }
 .facts dd { margin: 0; color: var(--muted); }
 .buy { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; padding-top: 14px; border-top: 1px dashed var(--line); }
@@ -294,7 +294,7 @@ function card(p) {
   const c = el(`<article class="plant${s === "sold" ? " is-sold" : ""}" id="p${p.n}">
     <div class="media${multi ? "" : " single"}">
       <button class="photo" type="button" aria-label="View ${esc(p.name)} full size">
-        <img src="${small(p, p.t[0])}" alt="${esc(p.name)}, ${esc(p.bot)}" loading="lazy">
+        <img src="${small(p, p.t[0])}" alt="${esc(p.name)}, ${esc(p.sci)}" loading="lazy">
         ${s === "sold" ? `<span class="stamp big">Sold</span>` : s === "pending" ? `<span class="stamp big pend">Pending</span>` : ""}
         ${multi ? `<span class="count">1 / ${p.t.length}</span>` : ""}<span class="zoom">Full size</span>
       </button>
@@ -302,14 +302,14 @@ function card(p) {
     </div>
     <div class="info">
       <div class="top">
-        <div class="ident"><span class="no">No. ${pad(p.n)}</span><h3>${esc(p.name)}</h3><span class="bot">${esc(p.bot)}</span></div>
+        <div class="ident"><span class="no">No. ${pad(p.n)}</span><h3>${esc(p.name)}</h3><span class="bot">${esc(p.sci)}</span></div>
         <div class="tag"><i>${s === "sold" ? "Sold" : "Price"}</i><b>$${p.price}${p.unit ? `<small>${esc(p.unit)}</small>` : ""}</b></div>
       </div>
       <div class="pills"><span class="pill ${s === "available" ? "" : s}">${STATUS[s]}</span>${p.rare ? `<span class="pill plain">Rare / variegated</span>` : ""}${p.easy ? `<span class="pill plain">Easy care</span>` : ""}</div>
       <p class="pitch">${esc(p.pitch)}</p>
       <dl class="facts">
-        <div><dt>Care</dt><dd>${esc(p.care)}</dd></div>
-        ${p.includes ? `<div><dt>Comes with</dt><dd>${esc(p.includes)}</dd></div>` : ""}
+        ${[["Available", p.count], ["Size", p.size], ["Pot", p.pot], ["Comes with", p.includes], ["Light", p.light], ["Water", p.water], ["Pets", p.pets]]
+          .filter(r => r[1]).map(([k, v]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("")}
       </dl>
       <div class="buy">${buy}</div>
     </div>
@@ -348,7 +348,7 @@ const lb = document.getElementById("lb"), lbImg = document.getElementById("lbImg
 let lbP = null, lbI = 0;
 function showLb() {
   lbImg.src = full(lbP, lbP.t[lbI]); lbImg.alt = lbP.name;
-  document.getElementById("lbTitle").innerHTML = `${esc(lbP.name)}<small>${esc(lbP.bot)} · ${esc(status(lbP) === "sold" ? "Sold" : priceText(lbP))}</small>`;
+  document.getElementById("lbTitle").innerHTML = `${esc(lbP.name)}<small>${esc(lbP.sci)} · ${esc(status(lbP) === "sold" ? "Sold" : priceText(lbP))}</small>`;
   document.getElementById("lbCount").textContent = `${lbI + 1} / ${lbP.t.length}`;
   document.getElementById("lbPrev").disabled = document.getElementById("lbNext").disabled = lbP.t.length < 2;
 }

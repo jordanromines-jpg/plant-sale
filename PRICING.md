@@ -6,9 +6,9 @@ almost 5 ft tall in a 10 to 12 inch pot.
 
 | No. | Plant | How it was identified | Price | Basis |
 |---|---|---|---|---|
-| 1 | Philodendron billietiae | Long strap-sagittate leaves on long petioles; multi-stem plant on a moss cage, about 3 ft across in a ~10 in pot | $125 | Small billietiae retail $20–26; specimens this size are rarely offered and run well over $100 |
+| 1 | Philodendron 'Burle Marx' (corrected by Jordan; was listed as billietiae) | Glossy sagittate leaves on long petioles; very full climber on a moss cage, about 3 ft across in a ~10 in pot | $70 | A common cultivar: 6 in pots retail $20–35. Priced for its size, not rarity |
 | 2 | Alocasia macrorrhizos / odora, giant | Erect cordate-sagittate blades, thick petioles; ~5 ft, single leaf wider than an arm's length (3+ hand lengths at 0:22) | $150 | 6 in plants $17–20; 5 ft specimens are nursery-only and run $150–250 |
-| 3 | Philodendron 'Florida Beauty', variegated | Pedatisect leaves, rough petioles, yellow marbling on several leaves; on a tall pole | $90 | Variegated 4 in retail up to $150; priced down because the variegation is uneven |
+| 3 | Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum), variegated, 2 plants | Pedatisect leaves, rough petioles, yellow marbling on several leaves; two climbers about the same height on tall poles | $90 each | Variegated 4 in retail up to $150; priced down because the variegation is uneven |
 | 4 | Monstera deliciosa | Adult fenestrated leaves; ~12 in teal pot (gallon jug is about half its height), ~3 ft moss pole | $125 | Nurseries ask $150+ for 12 in specimens on poles |
 | 5 | Epipremnum 'Pearls and Jade' | Speckled cream/grey-green leaves; very full hanging basket | $45 | 8 in baskets $30–45 retail; this one is fuller than retail stock |
 | 6 | Alocasia macrorrhizos 'Mojito' | Large sagittate leaves with cream/green marbling; leaves ~18 in (about 2.5 hand widths at 1:04) | $110 | Mojito is mostly sold as small starters ($17–25); full-size variegated Alocasia command a large premium |
@@ -22,7 +22,7 @@ almost 5 ft tall in a 10 to 12 inch pot.
 | 14 | Epipremnum aureum 'Golden' | Yellow-streaked, full pots | $18 each | |
 | 15 | Schlumbergera truncata | Pointed, claw-toothed stem segments (Thanksgiving, not Christmas cactus); ~15 in tall | $25 | Includes pink ceramic pot and bamboo saucer |
 
-Total asking: $972, counting no. 9 and no. 14 once each.
+Total asking: $1,025 (no. 3 and no. 14 counted as two plants each; no. 9 counted once).
 
 Confirm before posting: whether the blue snail pot (8) and planter box (13) are included.
 

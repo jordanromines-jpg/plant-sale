@@ -8,7 +8,9 @@ with `#p<number>`, e.g. `…/plant-sale/#p6`.
 
 ## Update the sale
 
-Everything buyers see comes from `plants.js`:
+Everything buyers see comes from `plants.js`. Each plant has `name` (what buyers search for), `sci` (scientific
+name), `size`, `pot`, `includes`, `light`, `water`, `pets` and `count`; blank fields are left off the page.
+
 
 - **Price:** change `price` (and `unit: "each"` for per-item prices).
 - **Sold or pending:** add `status: "sold"` or `status: "pending"` to the plant.
