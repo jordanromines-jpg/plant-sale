@@ -10,6 +10,11 @@ Add an entry under [Unreleased] with every change, then cut releases with `scrip
 
 ## [Unreleased]
 
+### Changed
+- Pot sizes from Jordan: Marble Queen 8 in, Satin Pothos 6 in, golden pothos 6 in.
+- No. 10 is two full-size variegated Florida Beauties, about 4 ft tall in 8 in pots, $100 each (not cuttings).
+- Golden pothos split into no. 15 (mushroom pot, $18) and no. 16 (10 ft vines, 6 in pot, $35).
+
 ### Added
 - Restored five plants on Jordan's inventory: Fernwood Punk snake plant (with its snail pot), highly variegated White Wizard, Satin Pothos, Scindapsus treubii 'Dark Form' and Golden Pothos (2). The Florida Beauty cutting is listed as 2 available. The sale is 18 plants across 15 listings.
 

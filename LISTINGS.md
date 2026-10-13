@@ -218,6 +218,7 @@ A huge, full Marble Queen pothos, about two feet across. Nearly every leaf is st
 Plant: Marble Queen Pothos, Large
 Scientific name: Epipremnum aureum 'Marble Queen'
 Size: Very full mound, about 2 ft across
+Pot: 8 in
 Light: Medium to bright indirect light keeps the marbling strong
 Water: When the top half of the soil dries out
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -231,20 +232,21 @@ https://jordanromines-jpg.github.io/plant-sale/#p9
 If it's listed, it's still available.
 ```
 
-## 10. Variegated Philodendron Florida Beauty Cutting
+## 10. Variegated Philodendron Florida Beauty, 4 ft
 
-Title: Variegated Philodendron Florida Beauty cutting, bright yellow variegation
-Price: $30 each
+Title: Variegated Philodendron Florida Beauty, 4 ft tall, 8 inch pot (2 available)
+Price: $100 each
 
 ```text
-A variegated Florida Beauty cutting with leaves splashed bright yellow, some almost fully yellow. It's the cheapest way to get a variegated Florida Beauty, and it'll grow into the lobed adult leaves of the big plants on this page. Price is per cutting.
+Two full-size variegated Florida Beauties, each about four feet tall in an 8 inch pot, with leaves splashed bright yellow, some almost fully yellow. That much yellow on plants this size is what people hunt for with this hybrid. Florida Beauty variegation shifts from leaf to leaf, and bright light brings more of it out. Price is per plant.
 
-Plant: Variegated Philodendron Florida Beauty Cutting
+Plant: Variegated Philodendron Florida Beauty, 4 ft
 Scientific name: Philodendron 'Florida Beauty' (P. pedatum × P. squamiferum)
 Available: 2 available
-Size: Rooted cutting with bright yellow variegated leaves
+Size: Full-size plants, about 4 ft tall
+Pot: 8 in
 Light: Bright, indirect light keeps the variegation coming
-Water: Keep the mix lightly moist while it settles in
+Water: When the top couple inches dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
 
 Healthy and disease-free. It lives in a humid room and is putting out new growth.
@@ -317,6 +319,7 @@ A full pot of satin pothos with matte, dark leaves splashed in silver. It grows 
 Plant: Satin Pothos (Silver Satin)
 Scientific name: Scindapsus pictus 'Argyraeus'
 Size: Full pot
+Pot: 6 in
 Light: Low to medium light
 Water: When the soil is mostly dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -354,18 +357,18 @@ https://jordanromines-jpg.github.io/plant-sale/#p14
 If it's listed, it's still available.
 ```
 
-## 15. Golden Pothos
+## 15. Golden Pothos in Mushroom Pot
 
-Title: Golden Pothos, full pots
-Price: $18 each
+Title: Golden Pothos in a mushroom pot, full
+Price: $18
 
 ```text
-Golden pothos in full pots with yellow streaking on the leaves. It forgives a missed watering and grows fast enough that you'll have cuttings to give away. Price is per pot.
+A full golden pothos in a mushroom-shaped pot, with yellow streaking on the leaves. It forgives a missed watering and grows fast enough that you'll have cuttings to give away.
 
-Plant: Golden Pothos
+Plant: Golden Pothos in Mushroom Pot
 Scientific name: Epipremnum aureum 'Golden'
-Available: 2 available
-Size: Full pots
+Size: Full pot
+Pot: Mushroom-shaped pot, about 6 in
 Light: Low to bright indirect light
 Water: When the top inch or two is dry
 Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
@@ -375,6 +378,31 @@ Pickup in Chicago.
 
 More photos of this plant, and everything else I have for sale:
 https://jordanromines-jpg.github.io/plant-sale/#p15
+
+If it's listed, it's still available.
+```
+
+## 16. Golden Pothos, 10 ft Vines
+
+Title: Golden Pothos with 10 ft long vines, 6 inch pot
+Price: $35
+
+```text
+A golden pothos with vines about ten feet long. Run it along a curtain rod or a shelf, or around a whole window, and it's an instant jungle. Growing vines that long takes years, and here they're already done.
+
+Plant: Golden Pothos, 10 ft Vines
+Scientific name: Epipremnum aureum 'Golden'
+Size: Vines about 10 ft long
+Pot: 6 in
+Light: Low to bright indirect light
+Water: When the top inch or two is dry
+Pets: Toxic to cats and dogs if chewed (calcium oxalate). Keep it out of reach of pets that nibble.
+
+Healthy and disease-free. It lives in a humid room and is putting out new growth.
+Pickup in Chicago.
+
+More photos of this plant, and everything else I have for sale:
+https://jordanromines-jpg.github.io/plant-sale/#p16
 
 If it's listed, it's still available.
 ```
