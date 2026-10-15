@@ -1,5 +1,8 @@
 # Sunroom Plant Sale
 
+> **For Claude and other AI agents:** read this entire README before you work in this repo for the first time, and
+> whenever you are unfamiliar with it. Then read `CLAUDE.md`.
+
 Listing page for 15 houseplants, served from GitHub Pages and linked from Marketplace listings.
 
 A one-page listing site for 18 houseplants (16 listings), served from GitHub Pages at
